@@ -1,5 +1,5 @@
 {
-  "icecreams": [
+  "products": [
     {
       "id": 1,
       "name": "Vanilla Classic",
@@ -282,3 +282,4 @@
     }
   ]
 }
+
