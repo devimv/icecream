@@ -12,7 +12,7 @@
       "rating": 4.5,
       "ingredients": ["Milk", "Sugar", "Vanilla Extract"],
       "description": "Smooth and creamy vanilla made with real vanilla beans.",
-      "image": "https://example.com/images/vanilla.jpg"
+      "image": "https://i5.peapod.com/c/FS/FS0PU.png"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "rating": 4.7,
       "ingredients": ["Milk", "Cocoa", "Sugar"],
       "description": "Rich chocolate ice cream with a deep cocoa taste.",
-      "image": "https://example.com/images/chocolate.jpg"
+      "image": "https://5.imimg.com/data5/WP/DC/MY/SELLER-88675426/chocolate-delight-500x500.png"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "rating": 4.3,
       "ingredients": ["Milk", "Strawberries", "Sugar"],
       "description": "Fresh strawberry ice cream with real fruit chunks.",
-      "image": "https://example.com/images/strawberry.jpg"
+      "image": "https://img.freepik.com/premium-photo/berry-bliss-delightful-assortment-strawberry-ice-cream-scoops-promises-sweet-satisfaction-vertica_896558-16957.jpg"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "rating": 4.6,
       "ingredients": ["Milk", "Mint", "Chocolate Chips"],
       "description": "Refreshing mint ice cream with crunchy choco chips.",
-      "image": "https://example.com/images/mintchoco.jpg"
+      "image": "https://tse4.mm.bing.net/th/id/OIP.W_i4DSptNKGGVWXBoGLyEgHaHa?r=0&cb=thfc1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
       "rating": 4.4,
       "ingredients": ["Milk", "Sugar", "Butterscotch Nuts"],
       "description": "Creamy butterscotch with crunchy nutty bites.",
-      "image": "https://example.com/images/butterscotch.jpg"
+      "image": "https://cdn.prod.website-files.com/610ad3ad234b4037b59c37dd/651c8f8ff549f1e28f7b296c_Trumpet_2023_ColossalButterscotch_LPOpen.png"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       "rating": 4.2,
       "ingredients": ["Milk", "Mango Pulp", "Sugar"],
       "description": "Tropical mango ice cream made with Alphonso pulp.",
-      "image": "https://example.com/images/mango.jpg"
+      "image": "https://tse2.mm.bing.net/th/id/OIP.aL7IMxKxWbP6hqKT99_fAQHaHa?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
       "rating": 4.8,
       "ingredients": ["Milk", "Oreo Cookies", "Sugar"],
       "description": "Classic cookies and cream with Oreo chunks.",
-      "image": "https://example.com/images/cookiescream.jpg"
+      "image": "https://tse1.mm.bing.net/th/id/OIP.n0HgPjOe7CV24lTrfPONYAHaHa?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 8,
@@ -110,7 +110,7 @@
       "rating": 4.5,
       "ingredients": ["Milk", "Pistachios", "Sugar"],
       "description": "Nutty pistachio ice cream with a rich flavor.",
-      "image": "https://example.com/images/pistachio.jpg"
+      "image": "https://img.freepik.com/premium-photo/vibrant-photo-creamy-pistachio-ice-cream-cup_1177965-1494.jpg"
     },
     {
       "id": 9,
@@ -124,7 +124,7 @@
       "rating": 4.6,
       "ingredients": ["Milk", "Caramel Syrup", "Sugar"],
       "description": "Sweet caramel swirls blended into smooth ice cream.",
-      "image": "https://example.com/images/caramel.jpg"
+      "image": "https://tse1.mm.bing.net/th/id/OIP.tMYT9XNy6FZhEwQ9ob5ywgHaLH?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 10,
@@ -138,7 +138,7 @@
       "rating": 4.5,
       "ingredients": ["Milk", "Coffee Extract", "Sugar"],
       "description": "Bold coffee flavor for true coffee lovers.",
-      "image": "https://example.com/images/coffee.jpg"
+      "image": "https://2.bp.blogspot.com/-U76ePgQW5QA/UeM_pxOYNrI/AAAAAAAAAp8/4_jAqBUv_p0/s1600/photo+(3).JPG"
     },
     {
       "id": 11,
@@ -152,7 +152,7 @@
       "rating": 4.1,
       "ingredients": ["Milk", "Blueberry Pulp", "Sugar"],
       "description": "Fruity blueberry ice cream with a tangy twist.",
-      "image": "https://example.com/images/blueberry.jpg"
+      "image": "https://tse1.mm.bing.net/th/id/OIP.PCPn4lRCL_c0NbkvsgtGCAHaHa?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 12,
@@ -166,7 +166,7 @@
       "rating": 4.3,
       "ingredients": ["Milk", "Black Currant", "Sugar"],
       "description": "Exotic black currant flavor with rich taste.",
-      "image": "https://example.com/images/blackcurrant.jpg"
+      "image": "https://www.bigbasket.com/media/uploads/p/l/40237787_1-dairy-day-blackcurrant-cone-ice-cream-rich-creamy.jpg"
     },
     {
       "id": 13,
@@ -180,7 +180,7 @@
       "rating": 4.9,
       "ingredients": ["Milk", "Coffee", "Cocoa", "Mascarpone"],
       "description": "Italian-inspired tiramisu ice cream with cocoa dust.",
-      "image": "https://example.com/images/tiramisu.jpg"
+      "image": "https://foxeslovelemons.com/wp-content/uploads/2020/10/Frozen-Tiramisu-Cups-3.jpg"
     },
     {
       "id": 14,
@@ -194,7 +194,7 @@
       "rating": 4.7,
       "ingredients": ["Milk", "Almonds", "Chocolate"],
       "description": "Crunchy almonds with rich chocolate fudge swirl.",
-      "image": "https://example.com/images/almondfudge.jpg"
+      "image": "https://tse3.mm.bing.net/th/id/OIP.jWE8dz92n3hoNEcEiKhSXwHaFA?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 15,
@@ -208,7 +208,7 @@
       "rating": 4.2,
       "ingredients": ["Milk", "Raspberry Syrup", "Sugar"],
       "description": "Raspberry sauce rippled through vanilla ice cream.",
-      "image": "https://example.com/images/raspberry.jpg"
+      "image": "https://tse2.mm.bing.net/th/id/OIP.wjMWW836WaDXHWJyfDRfKAHaID?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
       "id": 16,
@@ -222,7 +222,7 @@
       "rating": 4.0,
       "ingredients": ["Milk", "Coconut Flakes", "Sugar"],
       "description": "Tropical coconut ice cream with a creamy texture.",
-      "image": "https://example.com/images/coconut.jpg"
+      "image": "https://i.pinimg.com/originals/15/9f/ab/159fab838635389a44e28b9956ee1a88.jpg"
     },
     {
       "id": 17,
@@ -236,7 +236,7 @@
       "rating": 4.6,
       "ingredients": ["Milk", "Honey", "Almonds"],
       "description": "Sweet honey combined with roasted almonds.",
-      "image": "https://example.com/images/honeyalmond.jpg"
+      "image": "https://leopoldsicecream.com/wp-content/uploads/2023/05/leopold_honey_almond_cream_cone-min-600x900.jpg"
     },
     {
       "id": 18,
@@ -250,7 +250,7 @@
       "rating": 4.8,
       "ingredients": ["Milk", "Red Velvet Cake Pieces", "Cocoa"],
       "description": "Velvety smooth ice cream with red velvet chunks.",
-      "image": "https://example.com/images/redvelvet.jpg"
+      "image": "https://cgs-cdn.sgp1.digitaloceanspaces.com/dairy-day/wp-content/uploads/2023/03/30045122/8906010912161-red-velvet-tub-768x805.png"
     },
     {
       "id": 19,
@@ -264,7 +264,7 @@
       "rating": 4.9,
       "ingredients": ["Milk", "Brownie Pieces", "Cocoa"],
       "description": "Rich chocolate ice cream packed with brownie bits.",
-      "image": "https://example.com/images/brownie.jpg"
+      "image": "https://foxriverdairy.com/wp-content/uploads/2025/04/brownie-blast-scoop.png"
     },
     {
       "id": 20,
@@ -278,8 +278,7 @@
       "rating": 5.0,
       "ingredients": ["Milk", "Fruits", "Chocolate Syrup", "Nuts"],
       "description": "Colorful sundae with layers of flavors and toppings.",
-      "image": "https://example.com/images/rainbow.jpg"
+      "image": "https://static.vecteezy.com/system/resources/previews/037/130/726/non_2x/ai-generated-mouthwatering-rainbow-ice-cream-sundaes-garnish-with-a-glazed-cherry-on-top-photo.jpg"
     }
   ]
 }
-
