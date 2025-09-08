@@ -1,5 +1,4 @@
-{
-  "products": [
+ [
     {
       "id": 1,
       "name": "Vanilla Classic",
@@ -281,4 +280,5 @@
       "image": "https://static.vecteezy.com/system/resources/previews/037/130/726/non_2x/ai-generated-mouthwatering-rainbow-ice-cream-sundaes-garnish-with-a-glazed-cherry-on-top-photo.jpg"
     }
   ]
-}
+
+
